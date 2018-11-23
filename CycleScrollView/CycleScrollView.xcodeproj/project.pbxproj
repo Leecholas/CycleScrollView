@@ -295,7 +295,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 74A743AUE6;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/limeng/Desktop/CycleScrollView/CycleScrollView/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/CycleScrollView/PrefixHeader.pch";
 				INFOPLIST_FILE = CycleScrollView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Leecholas.CycleScrollView;
@@ -311,7 +311,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 74A743AUE6;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/limeng/Desktop/CycleScrollView/CycleScrollView/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/CycleScrollView/PrefixHeader.pch";
 				INFOPLIST_FILE = CycleScrollView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Leecholas.CycleScrollView;
